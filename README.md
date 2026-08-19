@@ -29,7 +29,7 @@ leetcode/
 ```
 
 * `solution.cpp` : LeetCode 제출 코드
-* `test.cpp` : 로컬 테스트 코드
+* `test.cpp` : 로컬 테스트 코드 (github 업로드 안함)
 * `README.md` : 풀이 아이디어 및 시간·공간 복잡도 정리
 
 ## 🛠️ Language
@@ -40,8 +40,8 @@ leetcode/
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 0      |
-| Medium     | 0      |
+| Easy       | 1      |
+| Medium     | 1      |
 | Hard       | 0      |
 | **Total**  | **0**  |
 
