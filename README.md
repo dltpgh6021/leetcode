@@ -24,25 +24,25 @@ leetcode/
 ```text
 0001_Two_Sum/
 ├── solution.cpp
-├── test.cpp
+├── solution.py
 └── README.md
 ```
 
-* `solution.cpp` : LeetCode 제출 코드
-* `test.cpp` : 로컬 테스트 코드 (github 업로드 안함)
+* `solution.*` : LeetCode 제출 코드
 * `README.md` : 풀이 아이디어 및 시간·공간 복잡도 정리
 
 ## 🛠️ Language
 
 * C++
+* Python
 
 ## 📈 Progress
 
 | Difficulty | Solved |
 | ---------- | ------ |
 | Easy       | 1      |
-| Medium     | 1      |
+| Medium     | 2      |
 | Hard       | 0      |
-| **Total**  | **0**  |
+| **Total**  | **2**  |
 
 > 꾸준함이 최고의 알고리즘이다. 🚀
