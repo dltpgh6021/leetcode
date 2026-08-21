@@ -1,5 +1,3 @@
-초기 작성하신 코드를 바탕으로 정리한 템플릿입니다. 이 내용을 먼저 Git에 올리시고, 나중에 슬라이딩 윈도우와 해시를 적용한 풀이(Solution 2)를 추가하면서 업데이트해 나가시면 훌륭한 공부 기록이 될 것입니다.
-
 # 0003. Longest Substring Without Repeating Characters
 
 * **Difficulty:** Medium
