@@ -43,6 +43,6 @@ leetcode/
 | Easy       | 1      |
 | Medium     | 2      |
 | Hard       | 0      |
-| **Total**  | **2**  |
+| **Total**  | **3**  |
 
 > 꾸준함이 최고의 알고리즘이다. 🚀
